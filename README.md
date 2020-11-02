@@ -1,4 +1,4 @@
-#Pizzaria - Model View Controller
+# Pizzaria - Model View Controller
 - Aplicação Desktop Java
 - Objetivo de praticar conceitos da arquitetura MVC
 - Componentes SWING (GUI)
