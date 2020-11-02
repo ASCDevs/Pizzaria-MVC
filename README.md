@@ -7,8 +7,7 @@
 - Objetivo de praticar conceitos da arquitetura MVC
 - Componentes SWING (GUI)
 
-------------
-Aplicação desktop desenvolvida em Java, aplicando conceitos de arquitetura Model View Controller, onde é simulado o pedido de pizzas.
+    Aplicação desktop desenvolvida em Java, aplicando conceitos de arquitetura Model View Controller, onde é simulado o pedido de pizzas.
 ------------
 ### Para executar a aplicação
 Versão mínima do Java - 1.8.0_261
